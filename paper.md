@@ -1,4 +1,4 @@
-Author: Katherine Bexley and co-author BexMister
+Author: Katherine Bexley (UoM) and co-author BexMister (funky town)
 Title: Using GitBash for CF lab project
 
 Hello, welcome to me attempting to use version control (KB, 2020). I have tried before but failed badly (KB, 2019).
