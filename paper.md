@@ -6,3 +6,5 @@ I need to do this so that I can complete my lab project.
 Yo BexMister, just dropping into say we will smash this coding kid... ya
 
 To attempt this project, I will be using RStudio. I have downloaded this tool.
+
+In the following section I will post some pictures of my equipment set up.
